@@ -15,3 +15,5 @@ There should be an appropriate description of the college on the home page.
 #### ADMISSION.HTML
 ![image](https://github.com/user-attachments/assets/fba815a0-e282-4a7b-b746-5d92fdd51ad8)
 #### GALLERY.HTML
+![image](https://github.com/user-attachments/assets/4595bff8-3350-49e8-b870-42deef9377a5)
+
